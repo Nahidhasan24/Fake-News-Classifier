@@ -324,6 +324,14 @@ if __name__ == '__main__':
         print(f"INPUT: {s}\nPRED: {LABELS[pred]}\n")
 ```
 
+
+---
+
+Performance with deferent models 
+
+![Alt text](result.png)
+
+
 ---
 
 ## ✅ Reproducibility & best practices
